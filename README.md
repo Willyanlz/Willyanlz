@@ -24,7 +24,7 @@
   <a href = "https://github.com/Willyanlz?tab=repositories" target="_blank">Clique aqui e veja alguns dos meus projetos!</a>  
 </div>
 <br>
-------------------------------------------------------------------------------------
+
 
 
 <div align = "left">
