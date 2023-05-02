@@ -22,9 +22,9 @@
 <br>
 <div>
   <h3>Veja alguns de meus projetos abaixo</h3>
-  <a href = "https://crud-angular-delta.vercel.app/" target="_blank">CRUD com Angular</a>
-  <a href = "https://conversor-de-moedas-eta.vercel.app/" target="_blank">Conversor de moedas Angular</a>
-  <a href = "https://jogo-da-velha-angular-tau.vercel.app/" target="_blank">Jogo da velha Angular</a>
+  <a href = "https://crud-angular-delta.vercel.app/" target="_blank">CRUD com Angular</a><br>
+  <a href = "https://conversor-de-moedas-eta.vercel.app/" target="_blank">Conversor de moedas Angular</a><br>
+  <a href = "https://jogo-da-velha-angular-tau.vercel.app/" target="_blank">Jogo da velha Angular</a><br>
   <a href = "https://github.com/Willyanlz?tab=repositories" target="_blank">Clique aqui e veja mais em meus Repositórios!</a>
 </div>
 <br>
