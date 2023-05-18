@@ -31,6 +31,6 @@
 
 
 <div align = "left">
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Willyanlz&show_icons=true&layout=compact&theme=react&count_private=true"/>
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willyanlz&layout=compact&theme=react&count_private=true"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Willyanlz&show_icons=true&layout=compact&theme=react&count_private=true"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willyanlz&layout=compact&theme=react&count_private=true"/>
 </div>
