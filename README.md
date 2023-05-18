@@ -12,12 +12,11 @@
 - 👨🏼‍🏫 Estudando atualmente:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
 </div>
 <br>
 <div>
@@ -32,6 +31,6 @@
 
 
 <div align = "left">
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Willyanlz&show_icons=true&theme=react&count_private=true"/>
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willyanlz&theme=react&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Willyanlz&show_icons=true&layout=compact&theme=react&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willyanlz&layout=compact&theme=react&count_private=true"/>
 </div>
